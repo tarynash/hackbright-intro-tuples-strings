@@ -21,3 +21,11 @@
 
 ##Loops
 
+#for x in range(0,101):
+#	print x
+
+#for x in range(0,1100,100):
+#	print x
+
+#for x in range(1000,0,-100):
+#	print x
